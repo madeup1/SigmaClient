@@ -1,0 +1,19 @@
+[
+  {
+    "modid": "sigmaclient",
+    "name": "Sigma Client",
+    "description": "The most sigma client out there",
+    "version": "${version}",
+    "mcversion": "1.8.9",
+    "url": "https://discord.gg/Ka6utguQeZ",
+    "updateUrl": "",
+    "authorList": [
+      "madeup",
+      "scared"
+    ],
+    "credits": "",
+    "logoFile": "image.png",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
