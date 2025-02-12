@@ -1,3 +1,3 @@
-# SkipGrind
+# Sigmaclient
 
-The #1 macro for skyblock (Free for now!)
+The #1 free client because im sigma coder
